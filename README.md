@@ -44,3 +44,20 @@ Getting started is extremely simple since there's no backend or build process re
 - **Private Repository:** This project is designed primarily for personal use. Feel free to modify the source code to fit your specific fitness tracking needs.
 
 ---
+
+## Exercises
+
+Here is a list of the exercise categories available in the application and what you can expect from each:
+
+| Category | What to Expect |
+|---|---|
+| **Beginner and bodyweight** | Low-impact, accessible exercises focusing on foundational movements without requiring equipment. Perfect for starting out. |
+| **Yoga** | Flow and breath-focused sessions designed to improve balance, strength, and mindfulness, suitable for all levels. |
+| **Flexibility and mobility** | Stretching routines to increase range of motion, relieve tension, and improve joint health. |
+| **Meditation and mindfulness** | Guided practices for relaxation, mental clarity, and stress reduction. |
+| **HIIT and cardio** | High-Intensity Interval Training and heart-pumping workouts designed to burn calories and improve cardiovascular fitness. |
+| **Indoor cycling** | Spin bike routines focusing on endurance, speed, and cardiovascular strength. |
+| **Strength and resistance** | Workouts using dumbbells or bodyweight to build muscle tone and overall strength. |
+| **Legs, glutes and core** | Targeted exercises to strengthen the lower body and core stability. |
+| **Boxing and kickboxing** | High-energy cardio workouts focusing on striking techniques and agility (with or without a bag). |
+| **General fitness** | A mix of various disciplines for a well-rounded, full-body workout routine. |
